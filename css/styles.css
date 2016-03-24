@@ -1,0 +1,15 @@
+#too-short-rides {
+  display: none;
+}
+#too-tall-rides {
+  display: none;
+}
+#all-rides {
+  display: none;
+}
+.jumbotron {
+  font-size: 100pt;
+  background-color: deepskyblue
+  color: white;
+  text-align: center;
+}
